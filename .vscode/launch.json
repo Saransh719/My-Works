@@ -7,7 +7,7 @@
             "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
             "args": [],
             "stopAtEntry": false,
-            "cwd": "c:\\Program Files\\CodeBlocks\\MinGW\\bin",
+            "cwd": "E:\\Git\\My-Works",
             "environment": [],
             "externalConsole": false,
             "MIMode": "gdb",

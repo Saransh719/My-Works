@@ -1,0 +1,2 @@
+This is a text file
+used to study file handling in C
