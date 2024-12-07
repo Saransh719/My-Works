@@ -9,7 +9,7 @@ void swap(int* x,int* y)
 }
 
 //note that each iteration of i is called a pass
-void main()
+int main()
 {
     //note that while using bubble sort, the greatest element is moved to end in the first iteration, so no need to compare it again, just sort
     //rest of the array, therefore, run loop for (n-1 times for i) and for (n-i-1 times for j) (as first n-1 needs to be sorted then n-2 then n-3 ,etc)
